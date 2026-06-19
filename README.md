@@ -79,3 +79,7 @@ Student Academic Performance Dataset
 ## Conclusion
 
 This project demonstrates the use of SQL for educational analytics, KPI development, segmentation, academic risk analysis, and business-oriented reporting.
+
+## Skills Highlighted
+
+SQL Server | SSMS | Data Analysis | KPI Development | Academic Analytics | Student Segmentation | CTEs | Window Functions | Risk Analysis
