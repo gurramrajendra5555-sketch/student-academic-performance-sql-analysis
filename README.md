@@ -13,6 +13,20 @@ Student Academic Performance Dataset
 * SQL Server
 * SQL Server Management Studio (SSMS)
 
+* ## Project Structure
+
+- KPIs
+- Easy SQL Problems
+- Medium SQL Problems
+- Difficult SQL Problems
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- CTE-Based Analysis
+- Window Function Analysis
+- Final Findings
+- Recommendations
+
 ## Skills Demonstrated
 
 * KPI Analysis
